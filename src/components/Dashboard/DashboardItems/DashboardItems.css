@@ -1,0 +1,20 @@
+.dashboardItems{
+    padding-top: 20px;
+    padding-left: 20%;
+}
+
+.button {
+    border-radius: 50px;
+    color: white !important;
+}
+
+.main-area {
+    margin-left: 5px !important;
+}
+
+.button2{
+    width: 100%;
+}
+.button-div {
+    width: 100%;
+}

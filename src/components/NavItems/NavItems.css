@@ -1,0 +1,32 @@
+.NavItems {
+    text-align: center;
+    padding-left: 20px
+}
+.trans {
+    font-size: 25px;
+    color:  #1E90FF;
+}
+
+.input {
+    width: 10%;
+    border: none;
+}
+.nav {
+    width: 40%;
+}
+
+.badge {
+  margin: auto;
+  object-fit: cover;
+  object-position: top;
+  -o-object-position: top;
+}
+.image{
+    height: 30px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.paragraph {
+    white-space: pre;
+}

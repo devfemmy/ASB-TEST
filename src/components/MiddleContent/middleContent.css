@@ -1,0 +1,22 @@
+.card2 {
+    width: 92%;
+    height: 170px;
+}
+.span1{
+    color: gold;
+    font-size: 12px;
+    font-weight: bold;
+}
+.span2{
+    color: green;
+    font-size: 12px;
+    font-weight: bold;
+}
+.span3{
+    color: blue;
+    font-size: 12px;
+    font-weight: bold;
+}
+.progress{
+    height: 4px;
+}

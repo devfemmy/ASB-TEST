@@ -1,0 +1,44 @@
+.caret {
+    color: blue;
+    background-color: white;
+    border: none;
+}
+.caret2 {
+    color: grey;
+    background-color: white;
+    border: none;
+}
+.input3 {
+    border: none;
+    border-bottom: 1px solid gray;
+    
+}
+.btn9 {
+        border: none;
+        outline: none;
+        padding: 10px 16px;
+        background-color: white;
+        cursor: pointer;
+
+}
+.active, .btn9:hover {
+    color: blue;
+    background-color: white;
+}
+.Reconciled {
+    color: green;
+    border-radius: 50px
+}
+.Pending {
+    color: gold;
+    border-radius: 50px
+}
+.Unreconciled {
+    color: grey;
+    border-radius: 50px
+}
+.IconImg {
+    width: 50px;
+    height: 30px;
+    border-radius: 50%
+}
